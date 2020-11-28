@@ -50,7 +50,7 @@ public class Driver extends AppCompatActivity {
                             for(DocumentSnapshot document:task.getResult()){
                                 Order order=document.toObject(Order.class);
                                 if(etDriver.getText().toString().equals(order.getDriverid())) {
-                                    str += "Hi " + order.getName() +"\n" + "Your tasks are " +order.getOrderid()+"\n" + " scheduled at " + order.getTime();
+                                    str += "Hi " + order.getName() +"\n" + "Your tasks are " +order.getOrderid()+"\n" + "  scheduled at  " + order.getTime();
                                     flag=false;
                                 }
                             }
