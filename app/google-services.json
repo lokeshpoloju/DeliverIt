@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706525881225",
+    "firebase_url": "https://driveit-fdb86.firebaseio.com",
+    "project_id": "driveit-fdb86",
+    "storage_bucket": "driveit-fdb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706525881225:android:341b787aff000092db3758",
+        "android_client_info": {
+          "package_name": "com.example.driveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706525881225-k6lr7ht6lj00g14i9fv7uc6gfuim74cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEJvYYJALX48emD9ics89s1G2QuEttUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706525881225-k6lr7ht6lj00g14i9fv7uc6gfuim74cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
